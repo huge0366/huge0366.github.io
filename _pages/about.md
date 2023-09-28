@@ -55,9 +55,7 @@ Research Supervision
 1.	Postdoctoral researcher
  -	Dr. Mengyuan Qiu, 2022–2024
 2.	PhD students
- -	Mr. Benedict Essuman-quainoo, 2020–
- -	Mr. Ke Zhang, 2021–
- -	Ms. Xiaolin Lin, 2022–
+ -	Mr. Benedict Essuman-quainoo, 2020–2023
 3.	EDD (Doctor of Education) student
  -	Ms. Jin Zhang, 2021–
 
