@@ -12,6 +12,9 @@ main:
 
   - title: "Honors and Prizes"
     url: /honors/    
+
+ - title: "Funds"
+    url: /funds/   
     
   - title: "Portfolio"
     url: /portfolio/
