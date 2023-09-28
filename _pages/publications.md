@@ -4,6 +4,24 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+
+Monograph
+===
+1.	Qing Pei. Climate Change Economics between Europe and China: Long-Term Economic Development of Divergence and Convergence. Switzerland, Springer Nature. 2021. ISBN: 978-3-030-78745-5
+
+Book Manuscript under Work
+===
+1.	Qing Pei, Jinqi Fang, Zhongping Chen. Environmental Change and Chinese History: The Search for Heaven-Human Harmony. Hong Kong: Hong Kong University Press (Proposal accepted). 
+
+Book Chapters
+===
+Notes: No. 1-2 were published since joining EdUHK.
+1.	David D Zhang, Qing Pei, Christiane Fröhlich, Tobias Ide. Does climate change drive violence, conflict and human migration? Mike Hulme, Contemporary Climate Change Debates: A Student Primer. London and New York: Routledge, 2019, Page 51-64
+2.	裴卿，氣候變化和人類社會經濟發展因果關係的研究進展，夏明方、郝平編，《災害與歷史》，北京，中國，商務印書館，2018，250-259页
+3.	David D. Zhang, Qing Pei. Gone with winds: A quantitative analysis of battlefield locations and climate shifts in Imperial China. Peter Dennis, Geo-strategy and War: Enduring Lessons for Australian Army. Canberra, Australia: Big Sky Publishing, 2015, Page 193-211
+
+Published papers
+---
 1.	Sam White, **Qing Pei**, Katrin Kleemann, Lukáš Dolák, Heli Huhtamaa, Chantal Camenisch. New Perspectives on Historical Climatology. Wiley Interdisciplinary Reviews: Climate Change. 2022, Forthcoming.
 2.	Mengyuan Qiu, **Qing Pei**, Ziyuan Lin. The Geography of Religions: Comparing Buddhist and Taoist Sacred Mountains in China. Geographical Research. 2022, Forthcoming.
 3.	Chantal Camenisch, Fernando Jaume-Santero, Sam White, **Qing Pei**, Ralf Hand, Christian Rohr, and Stefan Brönnimann. A Bayesian Approach to Historical Climatology for the Burgundian Low Countries in the 15th Century. Climate of the Past. 2022, Forthcoming.
