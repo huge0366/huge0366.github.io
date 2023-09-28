@@ -8,12 +8,12 @@ author_profile: true
 
 {% include base_path %}
 
-Conference Organized in EdUHK
+Conference Organized
 ===
 1.	PAGES-CRIAS 3rd workshop “State of the Art of Historical Climatology in International Perspective”, March 19-20, 2021
 •	More than 50 scholars from at least 15 countries attended.
 
-Keynote and Invited Presentation since Joining EdUHK
+Keynote and Invited Presentation
 ===
 1.	**Qing Pei**. A scientific story from humanities: Climate change and its impacts in history based on the archives of societies. World Conference on Environmental and Earth Sciences. Valencia, Spain, October 24-25, 2022 (Keynote Speaker)
 2.	**Qing Pei**. Document-based precipitation reconstruction and its impact in Chinese history. The 1st Japan-China Joint Workshop on Historical Climatology in East Asia. Teikyo University, Tokyo, Japan, 21st December, 2019
