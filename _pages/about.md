@@ -44,6 +44,24 @@ MAJOR RESEARCH INTERESTS
 1. Methodology development in climate history
 1. Environmental change and Chinese history
 
+Editorship of Academic Journal
+-----
+1.	Advisory Panel Member 2023, Environmental Research Letters. 
+2.	Special issue editor, Climate of the Past. Issue name “International methods and comparisons in climate reconstruction and impacts from archives of societies”
+3.	Special issue editor, Past Global Changes Magazine. Issue name “Climate reconstruction and impacts from the archives of societies”, Volume 28(2), Page 33-68, 2020
+
+Research Supervision
+-----
+1.	Postdoctoral researcher
+•	Dr. Mengyuan Qiu, 2022–2024
+2.	PhD students
+•	Mr. Benedict Essuman-quainoo, 2020–
+•	Mr. Ke Zhang, 2021–
+•	Ms. Xiaolin Lin, 2022–
+3.	EDD (Doctor of Education) student
+•	Ms. Jin Zhang, 2021–
+
+
 **LANGUAGES**
 
 Mandarin, English, Cantonese, Japanese
