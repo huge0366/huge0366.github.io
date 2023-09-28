@@ -47,8 +47,8 @@ MAJOR RESEARCH INTERESTS
 Editorship of Academic Journal
 -----
 1.	Advisory Panel Member 2023, Environmental Research Letters. 
-2.	Special issue editor, Climate of the Past. Issue name “International methods and comparisons in climate reconstruction and impacts from archives of societies”
-3.	Special issue editor, Past Global Changes Magazine. Issue name “Climate reconstruction and impacts from the archives of societies”, Volume 28(2), Page 33-68, 2020
+2.	Special issue editor, Climate of the Past. Issue name "International methods and comparisons in climate reconstruction and impacts from archives of societies"
+3.	Special issue editor, Past Global Changes Magazine. Issue name "Climate reconstruction and impacts from the archives of societies", Volume 28(2), Page 33-68, 2020
 
 Research Supervision
 -----
