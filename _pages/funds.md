@@ -52,7 +52,7 @@ b. Selected internal funds
 - 	Period: 2016–2017 (HK\$100,000)
 - 	Period: 2019–2020 (HK\$80,000)
 2.	Dean’s Research Fund (Principal Investigator) 
-- 	(Output Prize) Period: 2017–2018 (HK\$50,000) and 2019–2020 (HK\$50,000)
+- 	(Output Prize) Period: 2017–2018 (HK$50,000) and 2019–2020 (HK$50,000)
 - 	(Impact Prize) Period: 2018–2019 (HK\$50,000)
 3.	Research Cluster Fund (Principal Investigator) (HK\$344,062.9)
 - 	Period: 2019–2020
