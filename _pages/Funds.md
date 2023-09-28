@@ -1,3 +1,12 @@
+---
+layout: archive
+title: ""
+permalink: /funds/
+author_profile: true
+
+---
+
+{% include base_path %}
 
 
 Funding Records of Research-related Projects
