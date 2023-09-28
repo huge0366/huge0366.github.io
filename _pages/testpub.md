@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Talks"
+title: ""
 permalink: /testpub/
 author_profile: true
 
