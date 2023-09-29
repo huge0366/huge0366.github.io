@@ -84,12 +84,13 @@ Journal Articles
 64.	**Qing Pei**. Environmental rights study under current climate change (氣候變化語境下對環境權的現實思考). Law Science Magazine (法學雜誌), 2008, 29: 80-83 (In Chinese)
 65.	**Qing Pei**. Can Wang. Introduction and analysis on Programmatic CDM (規劃方案下清潔發展機制介紹與分析). Environmental Science and Management (環境科學與管理). 2008, 32(12): 65-68, 74 (In Chinese)
 66.	**Qing Pei**. Can Wang. Xuedu Lv, A review and analysis on the international technology oriented agreements (應對氣候變化的國際技術協議評述), Advances in Climate Change Research (氣候變化研究進展), 2008, 4(5): 261-265 (In Chinese)
-67.	**Qing Pei**, Consideration of perfecting executions of environment government from the angle of legislation and executions of law (完善環境管理的法運行角度思考), Environment Pollution & Control (環境污染與防治) 
+67.	**Qing Pei**. Can Wang. CDM potential of existing residential buildings’ energy efficiency enhancement project in North China (中國北方既有住宅建築節能CDM項目開發潛力研究). 4th International Conference on Development and Environment in China (第四屆環境與發展中國論壇). 2008 (In Chinese)
+68.	Wen Sun, **Qing Pei** . Flourishing Clean Development Mechanism in China (蓬勃發展的清潔發展機制). Environmental Education (環境教育), 2008, 9: 79-81 (In Chinese)
+69.	Mengheng Zhang, Dongmei Jiang, **Qing Pei**, Genfa Lu. Legal Issues in Chinese carbon trade (淺析中國碳交易中的法律問題). Environmental Protection (環境保護), 2008, 128(410): 80-83 (In Chinese)
+71.	**Qing Pei**, Consideration of perfecting executions of environment government from the angle of legislation and executions of law (完善環境管理的法運行角度思考), Environment Pollution & Control (環境污染與防治) 
 2007, 3, http://www.zjepc.com/upload/rudearticle/2007/2007418134638.doc (In Chinese)
-68.	**Qing Pei**, Public government in market economy (市場經濟體制需要公共管理), Education Science & Culture Magazine (科教文匯), 2006, 1: 32-34 (In Chinese)
-69.	**Qing Pei**. Can Wang. CDM potential of existing residential buildings’ energy efficiency enhancement project in North China (中國北方既有住宅建築節能CDM項目開發潛力研究). 4th International Conference on Development and Environment in China (第四屆環境與發展中國論壇). 2008 (In Chinese)
-70.	Wen Sun, **Qing Pei** . Flourishing Clean Development Mechanism in China (蓬勃發展的清潔發展機制). Environmental Education (環境教育), 2008, 9: 79-81 (In Chinese)
-71.	Mengheng Zhang, Dongmei Jiang, **Qing Pei**, Genfa Lu. Legal Issues in Chinese carbon trade (淺析中國碳交易中的法律問題). Environmental Protection (環境保護), 2008, 128(410): 80-83 (In Chinese)
+72.	**Qing Pei**, Public government in market economy (市場經濟體制需要公共管理), Education Science & Culture Magazine (科教文匯), 2006, 1: 32-34 (In Chinese)
+
 
 
 
