@@ -16,7 +16,7 @@ Book Chapters
 3.	**裴卿**，氣候變化和人類社會經濟發展因果關係的研究進展，夏明方、郝平編，《災害與歷史》，北京，中國，商務印書館，2018，250-259页
 4.	David D. Zhang, **Qing Pei**. Gone with winds: A quantitative analysis of battlefield locations and climate shifts in Imperial China. Peter Dennis, Geo-strategy and War: Enduring Lessons for Australian Army. Canberra, Australia: Big Sky Publishing, 2015, Page 193-211
 
-Published papers
+Journal Articles
 ---
 1.	Sam White, **Qing Pei**, Katrin Kleemann, Lukáš Dolák, Heli Huhtamaa, Chantal Camenisch. New Perspectives on Historical Climatology. Wiley Interdisciplinary Reviews: Climate Change. 2022.
 2.	Mengyuan Qiu, **Qing Pei**, Ziyuan Lin. The Geography of Religions: Comparing Buddhist and Taoist Sacred Mountains in China. Geographical Research. 2022.
