@@ -7,8 +7,8 @@ main:
   - title: "Talks"
     url: /testpub/    
 
-  - title: "Teaching"
-    url: /teaching/    
+#  - title: "Teaching"
+#    url: /teaching/    
 
   - title: "Honors and Prizes"
     url: /honors/    
