@@ -18,21 +18,17 @@ External funds
 - 	Project Title: A Bayesian Approach to Precipitation Reconstruction in China during the Little Ice Age based on Archives of Societies
 - 	Funding source: University Grants Committee
 - 	Period: 2023–2024
-- 	Competitive basis
 2.	General Research Fund, University Grants Committee (Principal Investigator) 
 - 	Project title: Climate Change and Agrarian-nomadic Migration across the Great Wall during the Little Ice Age
 - 	Funding source: University Grants Committee
 - 	Period: 2022–2025
-- 	Competitive basis
 3.	Early Career Scheme, University Grants Committee (Principal Investigator) 
 - 	Project title: Climate change and economic vulnerabilities in early modern China
 - 	Funding source: University Grants Committee
 - 	Period: 2018–2019
-- 	Competitive basis
 4.	The PAGES (Past Global Changes) project (Principal Investigator and leader) 
 - 	Funding source: Swiss Academy of Sciences and Chinese Academy of Sciences. 
 - 	Period: 2018–2022
-- 	Competitive basis
 5.	Social Sciences and Humanities Research Council of Canada (Co-Investigator) 
 - 	Funding source: Social Sciences and Humanities Research Council of Canada
 - 	Period: 2021–2025
