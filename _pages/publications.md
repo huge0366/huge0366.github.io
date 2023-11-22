@@ -7,11 +7,11 @@ author_profile: true
 Publications
 ===
 Monograph
-===
+---
 1.	**Qing Pei**. Climate Change Economics between Europe and China: Long-Term Economic Development of Divergence and Convergence. Switzerland, Springer Nature. 2021. ISBN: 978-3-030-78745-5
 
 Book Chapters
-===
+---
 1.  **Qing Pei**, Yingqi Long, Xiaolin Lin, Climate Change in Historical Perspective: Violence, Conflict, and Migration, Handbook of Labor, Human Resources and Population Economics, 2023, Page 1-25
 2.	David D Zhang, **Qing Pei**, Christiane Fröhlich, Tobias Ide. Does climate change drive violence, conflict and human migration? Mike Hulme, Contemporary Climate Change Debates: A Student Primer. London and New York: Routledge, 2019, Page 51-64
 3.	**裴卿**，氣候變化和人類社會經濟發展因果關係的研究進展，夏明方、郝平編，《災害與歷史》，北京，中國，商務印書館，2018，250-259页
@@ -95,12 +95,12 @@ Journal Articles
 Talks
 ===
 Conference Organized
-===
+---
 1.	PAGES-CRIAS 3rd workshop “State of the Art of Historical Climatology in International Perspective”, March 19-20, 2021
 •	More than 50 scholars from at least 15 countries attended.
 
 Keynote and Invited Presentation
-===
+---
 1.	**Qing Pei**. A scientific story from humanities: Climate change and its impacts in history based on the archives of societies. World Conference on Environmental and Earth Sciences. Valencia, Spain, October 24-25, 2022 (Keynote Speaker)
 2.	**Qing Pei**. Document-based precipitation reconstruction and its impact in Chinese history. The 1st Japan-China Joint Workshop on Historical Climatology in East Asia. Teikyo University, Tokyo, Japan, 21st December, 2019
 3.	**Qing Pei**. The digitization of historical documents and climate reconstruction. 7th China Forestry Science Conference-Division of Forestry History. Nanjing, China, 8th–11th November, 2019 (Keynote Talk).
@@ -113,3 +113,36 @@ Keynote and Invited Presentation
 10.	**Qing Pei**. Divergence and Convergence across Eurasia: A comparative analysis on long-term economic development under climate change. Chinese University of Hong Kong, Hong Kong, China, 17th March, 2017. 
 11.	**Qing Pei**. Great Divergence: Comparative analysis on economic development in Europe and China under climatic impacts. Beijing Normal University, Beijing, China, 1st June, 2016 (in Chinese).
 
+Funds
+===
+1.	Humanities and Social Sciences Prestigious Fellowship Scheme (Principal Investigator) 
+- 	Project Title: A Bayesian Approach to Precipitation Reconstruction in China during the Little Ice Age based on Archives of Societies
+- 	Funding source: University Grants Committee
+- 	Period: 2023–2024
+- 	Competitive basis
+2.	General Research Fund, University Grants Committee (Principal Investigator) 
+- 	Project title: Climate Change and Agrarian-nomadic Migration across the Great Wall during the Little Ice Age
+- 	Funding source: University Grants Committee
+- 	Period: 2022–2025
+- 	Competitive basis
+3.	Early Career Scheme, University Grants Committee (Principal Investigator) 
+- 	Project title: Climate change and economic vulnerabilities in early modern China
+- 	Funding source: University Grants Committee
+- 	Period: 2018–2019
+- 	Competitive basis
+4.	The PAGES (Past Global Changes) project (Principal Investigator and leader) 
+- 	Funding source: Swiss Academy of Sciences and Chinese Academy of Sciences. 
+- 	Period: 2018–2022
+- 	Competitive basis
+5.	Social Sciences and Humanities Research Council of Canada (Co-Investigator) 
+- 	Funding source: Social Sciences and Humanities Research Council of Canada
+- 	Period: 2021–2025
+6.	National Natural Science Fund of China (Co-Investigator) 
+- 	Funding source: National Natural Science Foundation of China
+- 	Period: 2020–2023
+7.	Croucher Fund for Chinese Visitorship (Principal Investigator) 
+- 	Funding source: Croucher Foundation
+- 	Period: 2017–2018
+8.	Tin Ka Ping Fund (Principal Investigator)
+- 	Funding source: Tin Ka Ping Foundation
+- 	Period: 2017–2018, 2016-2017
