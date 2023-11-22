@@ -1,23 +1,23 @@
 # main links links
 main:
 
-  - title: "Publications"
+  - title: "Research"
     url: /publications/
 
-  - title: "Talks"
-    url: /testpub/    
+# - title: "Talks"
+#   url: /testpub/    
 
 #  - title: "Teaching"
 #    url: /teaching/    
 
-  - title: "Honors and Prizes"
+  - title: "Honor and Prize"
     url: /honors/    
 
-  - title: "Funds"
-    url: /funds/ 
+#  - title: "Funds"
+#    url: /funds/ 
         
-  - title: "Service"
-    url: /service/ 
+#  - title: "Service"
+#    url: /service/ 
 
-  - title: "Laboratory"
+  - title: "Team members"
     url: /lab/ 
