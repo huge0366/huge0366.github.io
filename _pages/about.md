@@ -32,17 +32,13 @@ PROFESSIONAL EMPLOYMENT
 1. **Research Associate (part-time)**, Department of Statistics and Actuarial Science, Faculty of Science, The University of Hong Kong, 2014–2016 
    	
 
-RESEARCH AREAS
+RESEARCH INTERESTS
 ------
 1. Historical Geography
-1. Climate History
+1. History of Climate and Society
 1. Social-Ecological Resilience
-
-MAJOR RESEARCH INTERESTS
-------
-1. Social reponses to climate change
-1. Methodology development in climate history
-1. Environmental change and Chinese history
+1. Digital Humanities
+1. Historical GIS
 
 Editorship of Academic Journal
 -----
