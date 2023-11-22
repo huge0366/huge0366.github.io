@@ -8,8 +8,7 @@ author_profile: true
 
 {% include base_path %}
 
-#Lab of Geography and Techological Humanities
-#======
+
 
 Research Assistant / Postdoctoral Fellow
 -----
