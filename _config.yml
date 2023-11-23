@@ -83,7 +83,11 @@ author:
   name             : "Qing Pei"
   avatar           : "Picture.jpg"
   bio              : "Lab of Geography and Technological Humanities"
-  location         :  "ZN619, 6/F, BLK Z, \n The Hong Kong PolyU, \n Hung Hom,KLN, \n HONG KONG"
+  location         : >
+  ZN619, 6/F, BLK Z, 
+  The Hong Kong PolyU, 
+  Hung Hom,KLN, 
+  HONG KONG
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=Y34DWHAAAAAJ&hl=zh-CN"
