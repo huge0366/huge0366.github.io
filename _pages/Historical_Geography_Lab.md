@@ -13,7 +13,7 @@ Openings
 
 Research Assistant / Postdoctoral Fellow
 -----
-I always welcome outstanding candidates to fill RA & Postdoctoral. For interested applicants, please drop me an email to request for more details.
+I always welcome outstanding candidates to fill RA & Postdoctoral posts. For interested applicants, please drop me an email to request for more details.
 
 For potential Ph.D. students
 -----
