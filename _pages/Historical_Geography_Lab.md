@@ -14,6 +14,15 @@ Openings
 Research Assistant / Postdoctoral Fellow
 -----
 I always welcome outstanding candidates to fill RA & Postdoctoral posts. For interested applicants, please drop me an email to request for more details. 
+<div style="display: flex; flex-wrap: wrap;">
+    <img src="/images/Lingyu_FAN_Photo.jpg" alt="Lingyu_FAN_Photo" style="height:110px;">
+    <p style="margin:0 20px">
+        <b style="font-size: large;">Lingyu FAN</b><br>
+        <an style="font-size: larger;">Research Assistant</an><br>
+        Email: ivy-lingyu.fan@polyu.edu.hk<br>
+        Research Interests: GIS, Human Geography<br>
+    </p>
+</div>
 
 For potential Ph.D. students
 -----
