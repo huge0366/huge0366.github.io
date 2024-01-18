@@ -8,12 +8,8 @@ author_profile: true
 
 {% include base_path %}
 
-Openings
+Research Assistant
 =====
-
-Research Assistant / Postdoctoral Fellow
------
-I always welcome outstanding candidates to fill RA & Postdoctoral posts. For interested applicants, please drop me an email to request for more details. 
 <div style="display: flex; flex-wrap: wrap;">
     <img src="/images/Lingyu_FAN_Photo.jpg" alt="Lingyu_FAN_Photo" style="height:110px;">
     <p style="margin:0 20px">
@@ -23,6 +19,13 @@ I always welcome outstanding candidates to fill RA & Postdoctoral posts. For int
         Research Interests: GIS, Human Geography<br>
     </p>
 </div>
+
+Openings
+=====
+
+Research Assistant / Postdoctoral Fellow
+-----
+I always welcome outstanding candidates to fill RA & Postdoctoral posts. For interested applicants, please drop me an email to request for more details. 
 
 For potential Ph.D. students
 -----
