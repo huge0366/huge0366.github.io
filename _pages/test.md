@@ -9,21 +9,9 @@ author_profile: true
 {% include base_path %}
 
 
-Just For Test
-===
-
-Just For Test
----
-1.	test
-
-<div style="display: flex; flex-wrap: wrap;">
-    <img src="/images/Lingyu_FAN_Photo.jpg" alt="Lingyu_FAN_Photo" style="height:110px;">
-    <p style="margin:0 20px">
-        <b style="font-size: large;">Lingyu FAN</b><br>
-        <an style="font-size: larger;">Research Assistant</an><br>
-        Email: ivy-lingyu.fan@polyu.edu.hk<br>
-        Research Interests: GIS, Human Geography<br>
-    </p>
-</div>
+News
+======
+* The 6th World Frontier Forum on Education, hosted by the China Education Forum for Thirty (CEF30), was held on 2th December, 2023. The forum focused on the theme "Climate, Education, and Learning: Tackling Challenges, Starting with Ourselves."
+* The 6th CRIAS workshop: Climate and Migration: Historical and Present Perspectives will hold at the Masaryk University during 3-4 June , 2024.
 
 
