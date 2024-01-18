@@ -21,6 +21,6 @@ main:
 
   - title: "Team Members"
     url: /lab/ 
-    
+
   - title: "News"
-      url: /news/ 
+    url: /news/ 
