@@ -13,10 +13,10 @@ Research Assistant
 <div style="display: flex; flex-wrap: wrap; margin-bottom:50px">
     <img src="/images/Lingyu_FAN_Photo.jpg" alt="Lingyu_FAN_Photo" style="height:110px;">
     <p style="margin:0 20px">
-        <b style="font-size: large;">Lingyu FAN</b><br>
-        <an style="font-size: larger;">Research Assistant</an><br>
+        <b>Lingyu FAN</b><br>
         Email: ivy-lingyu.fan@polyu.edu.hk<br>
-        Research Interests: GIS, Human Geography<br>
+        Lingyu Fan received her master’s degree in Geographic Information Systems at the Hong Kong Polytechnic University in 2023. Her research interests lie at the intersection of GIScience, Digital Humanities, and Historical Geography, focusing on using GIS, geospatial big data, text analysis, and natural language analysis to advance the understanding of the mechanisms of interaction between historical or present human activities and social events. This serves the sustainable development of cities and related policy formulation.<br><br>
+        In her master’s research, Lingyu revolves around leveraging interdisciplinary approaches, including epidemiology, spatial analysis, and data science, with a focus on using spatial modeling techniques and data-driven approaches to problem-solving. Her aim is to develop cost-effective pandemic control measures and to formulate targeted epidemic prevention measures tailored to local conditions in underdeveloped countries.
     </p>
 </div>
   
