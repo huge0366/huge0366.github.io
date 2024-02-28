@@ -8,10 +8,24 @@ author_profile: true
 
 {% include base_path %}
 
+Postdoctoral Fellow
+=====
+<div style="margin-bottom:50px">
+    <img src="/images/Mengyuan_Qiu_Photo.jpg" alt="Mengyuan_Qiu_Photo" style="height:120px;">
+    <p>
+        <b>Mengyuan Qiu</b><br>
+        Email: my-bella.qiu@polyu.edu.hk<br><br>
+        Mengyuan Qiu completed her bachelor’s degree in economics at Nanchang University in 2014, followed by postgraduate studies in Finance at South China University of Technology from 2014 to 2015, where she was selected for a successive master-doctor program. She obtained her Ph.D. in Economics from South China University of Technology in 2019. Currently serving as a Post-doctoral Fellow at the Department of Land Surveying and Geo-Informatics at The Hong Kong Polytechnic University since February 2024. Her previous post-doctoral position at The Education University of Hong Kong's Department of Social Sciences and Policy Studies saw her contributing significantly to research endeavors.<br><br>
+        Her research journey has been marked by significant contributions to various fields, such as Historical Geography, Economic Geography, Economic History, Sustainable Development. Notably, her investigation into "Social Responses to Climate Change in History" has yielded impactful insights into the intersections of climate change, health, and social security, and has been multiple publications in prestigious SCI/SSCI-indexed journals. Her earlier research endeavors have delved into diverse areas such as urban development, regional innovation, and macroeconomic growth, garnering recognition with numerous published papers in CSSCI-indexed journals. And she was awarded the National Scholarship for Doctoral Students in China in 2018, underscoring her dedication to academic excellence and innovation in research.
+    </p>
+</div>
+
+
+
 Research Assistant
 =====
 <div style="margin-bottom:50px">
-    <img src="/images/Lingyu_FAN_Photo.jpg" alt="Lingyu_FAN_Photo" style="height:110px;margin-bottom:20px;">
+    <img src="/images/Lingyu_FAN_Photo.jpg" alt="Lingyu_FAN_Photo" style="height:120px;">
     <p>
         <b>Lingyu FAN</b><br>
         Email: ivy-lingyu.fan@polyu.edu.hk<br><br>
@@ -19,7 +33,8 @@ Research Assistant
         In her master’s research, Lingyu revolves around leveraging interdisciplinary approaches, including epidemiology, spatial analysis, and data science, with a focus on using spatial modeling techniques and data-driven approaches to problem-solving. Her aim is to develop cost-effective pandemic control measures and to formulate targeted epidemic prevention measures tailored to local conditions in underdeveloped countries.
     </p>
 </div>
-  
+
+
 Openings
 =====
 
