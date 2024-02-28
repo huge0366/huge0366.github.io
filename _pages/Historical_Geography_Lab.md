@@ -38,6 +38,7 @@ Lab Research Fellow
 =====
 <div style="margin-bottom:50px">
     <p>
+        <img src="/images/Lisha_He_Photo.jpg" alt="Lisha_He_Photo" style="height:120px;">
         <b>Lisha He</b><br>
         Email: lisahe98@connect.hku.hk<br><br>
         Lisha He earned her Ph.D. in Economic Geography from the University of Hong Kong in 2021 after completing her M.Sc. in Financial Economics at the University of Exeter in 2016 and her B.A. in Economics, with a major in Finance, from Jinan University, Guangzhou, China in 2015. She currently serves as a Lecturer (Assistant Professor) in the Department of Economics, Finance and Entrepreneurship at Aston University, Birmingham, UK, a role she has held since 2023. Prior to this, she was a Research Assistant Professor in the Department of Economics at Lingnan University, Hong Kong, from 2021 to 2023.<br><br>
