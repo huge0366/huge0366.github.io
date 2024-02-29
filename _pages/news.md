@@ -29,18 +29,19 @@ Hong Kong Wenhui. Network:<br>
 The Paper:<br>
 [https://m.thepaper.cn/newsDetail_forward_25540419](https://m.thepaper.cn/newsDetail_forward_25540419)<br>
 Xuexi Qiangguo:<br>
-<https://article.xuexi.cn/articles/index.html?art_id=16269555655746257495&source=share&study_style_id=feeds_opaque&reco_id=102707f01d20c0a82235000u&share_to=wx_single&study_share_enable=1&study_comment_disable=0&ptype=0&item_id=16269555655746257495><br>
+[https://article.xuexi.cn/articles/index.html?art_id=16269555655746257495&source=share&study_style_id=feeds_opaque&reco_id=102707f01d20c0a82235000u&share_to=wx_single&study_share_enable=1&study_comment_disable=0&ptype=0&item_id=16269555655746257495](https://article.xuexi.cn/articles/index.html?art_id=16269555655746257495&source=share&study_style_id=feeds_opaque&reco_id=102707f01d20c0a82235000u&share_to=wx_single&study_share_enable=1&study_comment_disable=0&ptype=0&item_id=16269555655746257495)<br>
 NetEase Education:<br>
-<https://www.163.com/edu/article/IL4PIIAD00299B2K.html><br>
+[https://www.163.com/edu/article/IL4PIIAD00299B2K.html](https://www.163.com/edu/article/IL4PIIAD00299B2K.html)<br>
 Sina Education:<br>
-<https://edu.sina.com.cn/l/2023-12-04/doc-imzwwarn5272409.shtml><br>
+[https://edu.sina.com.cn/l/2023-12-04/doc-imzwwarn5272409.shtml](https://edu.sina.com.cn/l/2023-12-04/doc-imzwwarn5272409.shtml)<br>
 21 Finance: <br>
-<https://m.21jingji.com/article/20231204/herald/afa1f1fa3eec33dfd68b46fd01f894aa.html><br>
+[https://m.21jingji.com/article/20231204/herald/afa1f1fa3eec33dfd68b46fd01f894aa.html](https://m.21jingji.com/article/20231204/herald/afa1f1fa3eec33dfd68b46fd01f894aa.html)<br>
 Crystal Newspaper:<br>
-<https://appimg.allcitysz.com/template/displayTemplatev1/dist/index.html?id=807647&columnId=75#/newsDetail/807647/75?isShare=true&userName=%E7%94%A8%E6%88%B71007513&deviceId=cd80ed725ebcea87><br>
+[https://appimg.allcitysz.com/template/displayTemplatev1/dist/index.html?id=807647&columnId=75#/newsDetail/807647/75?isShare=true&userName=%E7%94%A8%E6%88%B71007513&deviceId=cd80ed725ebcea87](https://appimg.allcitysz.com/template/displayTemplatev1/dist/index.html?id=807647&columnId=75#/newsDetail/807647/75?isShare=true&userName=%E7%94%A8%E6%88%B71007513&deviceId=cd80ed725ebcea87)<br>
 China Network:<br>
-<http://edu.china.com.cn/2023-12/04/content_116856370.shtml><br>
+[http://edu.china.com.cn/2023-12/04/content_116856370.shtml](http://edu.china.com.cn/2023-12/04/content_116856370.shtml)
 
+* 2023: Dr. Pei Qing received the "Outstanding Reviewer Awards 2023 for *Environmental Research Letters*" in recognition of his invaluable service in upholding the quality and integrity of IOP publications.
 
 
 
