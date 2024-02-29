@@ -27,7 +27,7 @@ Sina News:<br>
 Hong Kong Wenhui. Network:<br>
 [https://www.wenweipo.com/s/202312/04/AP656d921ee4b0fdf828a8f588.html](https://www.wenweipo.com/s/202312/04/AP656d921ee4b0fdf828a8f588.html)<br>
 The Paper:<br>
-<https://m.thepaper.cn/newsDetail_forward_25540419><br>
+[https://m.thepaper.cn/newsDetail_forward_25540419](https://m.thepaper.cn/newsDetail_forward_25540419)<br>
 Xuexi Qiangguo:<br>
 <https://article.xuexi.cn/articles/index.html?art_id=16269555655746257495&source=share&study_style_id=feeds_opaque&reco_id=102707f01d20c0a82235000u&share_to=wx_single&study_share_enable=1&study_comment_disable=0&ptype=0&item_id=16269555655746257495><br>
 NetEase Education:<br>
