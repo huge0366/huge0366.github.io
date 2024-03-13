@@ -8,10 +8,6 @@ author_profile: true
 
 {% include base_path %}
 
-AAAAAAAAA
-====
-bbbbbbb
-
 
 Internal Services
 =====
