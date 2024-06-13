@@ -11,6 +11,10 @@ author_profile: true
 
 News
 ======
+* 13 June 2024: Dr. Pei Qing and our postdoctoral fellow Mengyuan Qiu published a new paper titled "Lost in Luxury: Climate Change and Silk Consumption in Mid-Qing China (1735–1840 CE)" in *The Professional Geographer*. <br><br>
+This study statistically examines the relationship between climate change and the Qing dynasty imperial court's luxury spending on silk products. It finds that favorable climatic conditions and a flourishing agrarian economy promoted silk consumption, while natural disasters and social crises had little impact on it.The study serves as the first attempt to reveal a long-term historical climate–luxury linkage and further provides a supplementary explanation of the economic decline from the perspective of the history of climate and society.<br>
+<a href="https://www.tandfonline.com/eprint/QUPGA37MGRCSZR748VVN/full?target=10.1080/00330124.2024.2345883">https://www.tandfonline.com/eprint/QUPGA37MGRCSZR748VVN/full?target=10.1080/00330124.2024.2345883</a><br>
+
 * 03 June 2024 - 04 June 2024: Dr. Pei Qing serves as one of the organizers of the 6th CRIAS workshop: Climate and Migration: Historical and Present Perspectives.<br><br>
 The conference theme aligns closely with global concerns regarding climate change, disasters, and migration. It aims to initiate new research activities on mobility and climate, share viewpoints and experience, support new international collaborations among researchers, and define research goals, and lay the basis for the working group’s following activities and publications.<br>
 <a href="https://geogr.sci.muni.cz/en/climatology/events/climate-and-migration-historical-and-present-perspectives">https://geogr.sci.muni.cz/en/climatology/events/climate-and-migration-historical-and-present-perspectives</a><br>
