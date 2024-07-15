@@ -17,7 +17,8 @@ Book Chapters
 4.	David D. Zhang, **Qing Pei**. Gone with winds: A quantitative analysis of battlefield locations and climate shifts in Imperial China. Peter Dennis, Geo-strategy and War: Enduring Lessons for Australian Army. Canberra, Australia: Big Sky Publishing, 2015, Page 193-211
 
 Journal Articles
-1. Han Xu, Lewis TO Cheung, Jon Lovett, Xialei Duan, **Qing Pei**, Dan Liang. Understanding the influence of user-generated content on tourist loyalty behavior in a cultural World Heritage Site. Tourism Recreation Research, 2023: 1-15
+1. Mengyuan Qiu, **Qing Pei**, Alex Lo, Jie Fei. Lost in Luxury: Climate Change and Silk Consumption in Mid-Qing China (1735–1840 CE). The Professional Geographer, 2024: 1-14.
+2. Han Xu, Lewis TO Cheung, Jon Lovett, Xialei Duan, **Qing Pei**, Dan Liang. Understanding the influence of user-generated content on tourist loyalty behavior in a cultural World Heritage Site. Tourism Recreation Research, 2023: 1-15
 3. 	Mengyuan Qiu, **Qing Pei**, Ziyuan Lin. The Geography of Religions: Comparing Buddhist and Taoist Sacred Mountains in China. Geographical Research. 2023.
 4.	Sam White, **Qing Pei**, Katrin Kleemann, Lukáš Dolák, Heli Huhtamaa, Chantal Camenisch. New Perspectives on Historical Climatology. Wiley Interdisciplinary Reviews: Climate Change. 2023.
 5.	Ziyu Chen, Binzizi Dong, **Qing Pei**, Zhonghao Zhang. The impacts of urban vitality and urban density on innovation: Evidence from China’s Greater Bay Area. Habitat International. 2022, 119: 102490.
