@@ -45,7 +45,7 @@ Lab Research Fellow
         Her research expertise primarily revolves around the field of economic geography, her publications and working papers reflect a comprehensive exploration of various aspects related to FDI, regional development, and the socio-economic dynamics shaping global economic interactions. Additionally, Lisha He is actively engaged in ongoing research projects, including an examination of the global FDI network in the post-COVID-19 era and an exploration of the impact of political factors on inward FDI in the U.S. Lisha's contributions to the field have been recognized through various awards and honors, including the Best Student Paper in China Study awarded by the China Specialty Group of the American Association of Geographers (AAG) in 2021 and the Best Student Paper in Economic Geography awarded by the Economic Geography Specialty Group of AAG in 2020. In addition, she received the Certificate of Teaching and Learning in Higher Education from The University of Hong Kong in 2018.
     </p>
 </div>
-<br>
+
 <div style="margin-bottom:50px">
     <img src="/images/ZOU huan.jpg" alt="Huan_Zou_Photo" style="height:120px;">
 <p>
