@@ -27,7 +27,7 @@ Research Assistant
 <div style="margin-bottom:50px">
     <img src="/images/Lingyu_FAN_Photo.jpg" alt="Lingyu_FAN_Photo" style="height:120px;">
     <p>
-        <b>Lingyu FAN</b><br>
+        <b>Lingyu Fan</b><br>
         Email: ivy-lingyu.fan@polyu.edu.hk<br><br>
         Lingyu Fan received her master’s degree in Geomatics at the Hong Kong Polytechnic University in 2023. Her research interests primarily focus on urban geography and historical GIS. She specializes in utilizing Geographic Information Systems and geospatial big data to deeply study the interaction mechanisms between human activities and urban spaces. Additionally, she integrates historical data with geospatial information to assist researchers in analyzing and understanding the spatial distribution and dynamic evolution of historical events, population migrations, economic activities, and environmental changes. <br><br>
         In her master’s research, Lingyu revolves around leveraging interdisciplinary approaches, including epidemiology, spatial analysis, and data science, with a focus on using spatial modeling techniques and data-driven approaches to problem-solving. Her aim is to develop cost-effective pandemic control measures and to formulate targeted epidemic prevention measures tailored to local conditions in underdeveloped countries.
@@ -48,7 +48,8 @@ Lab Research Fellow
 <div style="margin-bottom:50px">
     <img src="/images/ZOU huan.jpg" alt="Huan_Zou_Photo" style="height:120px;">
 <p>
-        <b>Huan ZHOU</b><br>
+        <b>Huan Zhou</b><br>
+    
         ZOU Huan graduated from Fudan University with a Bachelor’s degree in Translation and the University of Hongkong with a Master’s degree in China Development Studies with distinction. She is currently a lecturer at Shanghai International Studies University. From 2021 to 2023, she provided professional service as coordinator of onsite data/material collection for projects of climate change and migration & climate change and adaptation at the Education University of Hong Kong. Before this, she worked as editor in social sciences and foreign literature at Shanghai Translation Publishing House from 2016 to 2021.<br><br>
         ZOU’s research interests span China studies, historical climate change and its educational practice, comparative literature, and native American studies. She has contributed on publishing projects of notable prize winners including The Sympathizer (100th Pulitzer Prize winner) & The Refugees by Viet Thanh Nguyen, Collected Poems: 1931-2001 by Czeslaw Milosz (Nobel Laureate), No Room for Small Dreams: The Making of Modern Israel by Shimon Peres (former Israeli President), as well as works by Paul A. Cohen, Ezra F. Vogel, and Henry Kissinger. She is the Chinese translator of works by Louise Erdrich, Edward St. Aubyn, Daisy Johnson, and Naomi Ishiguro.
        </p>
