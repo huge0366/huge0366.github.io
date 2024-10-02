@@ -11,7 +11,7 @@ author_profile: true
 
 News
 ======
-* 18 September 2024:  Dr. Pei Qing and Dr. Qiu Mengyuan published a new paper titled "Cost of resilience to climate change: migration, conflicts, and epidemics in imperial China" in *Environmental Research Letters*. <br><br>
+* 01 October 2024:  Dr. Pei Qing and Dr. Qiu Mengyuan published a new paper titled "Cost of resilience to climate change: migration, conflicts, and epidemics in imperial China" in *Environmental Research Letters*. <br><br>
 This study examines the cost of social resilience to climate change in imperial China (200 BCE–1840 CE), focusing on the chain reaction: climate change → nomadic migration → nomad–farmer conflicts → epidemics, and empirically identifies and analyzes the cost, particularly in the direction of nomadic societies affecting agrarian societies. It reveals that climate-driven nomadic migrations directly caused conflicts with agrarian communities and indirectly led to epidemics. The study emphasizes the importance of early identification of resilience costs and highlights the value of peaceful cross-civilizational and inter-societal interactions in addressing climate challenges. These findings contribute to the understanding of climate justice and offer practical insights for minimizing resilience costs.<br>
 <a href="https://doi.org/10.1088/1748-9326/ad7a8e">https://doi.org/10.1088/1748-9326/ad7a8e</a><br>
 
