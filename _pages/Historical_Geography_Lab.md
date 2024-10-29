@@ -27,9 +27,9 @@ Phd Students
     <p>
     <b>Mingchun Hu</b><br>
     Email: mingchun.hu@connect.polyu.hk
-    Mingchun Hu completed her Bachelor’s degree in Geography with Economics at the London School of Economics and Political Science in 2022. She then obtained her MPhil in Planning, Growth, and Regeneration from the University of Cambridge in 2024.
+    Mingchun Hu completed her Bachelor’s degree in Geography with Economics at the London School of Economics and Political Science in 2022. She then obtained her MPhil in Planning, Growth, and Regeneration from the University of Cambridge in 2024.<br><br>
     Her research interests span human geography, economic geography, and historical geography. Her PhD journey will focus on using interdisciplinary methods to integrate concepts from these disciplines, aiming to explore the complex interactions between socio-economic development and climate change across different spatial and temporal scales.
-        </p>
+    </p>
 </div>
 
 Research Assistant
@@ -39,7 +39,7 @@ Research Assistant
     <p>
         <b>Lingyu Fan</b><br>
         Email: ivy-lingyu.fan@polyu.edu.hk<br><br>
-        Lingyu Fan received her master’s degree in Geomatics at the Hong Kong Polytechnic University in 2023. Her research interests primarily focus on urban geography and historical GIS. She specializes in utilizing Geographic Information Systems and geospatial big data to deeply study the interaction mechanisms between human activities and urban spaces. Additionally, she integrates historical data with geospatial information to assist researchers in analyzing and understanding the spatial distribution and dynamic evolution of historical events, population migrations, economic activities, and environmental changes. <br><br>
+        Lingyu Fan received her master’s degree in Geomatics at the Hong Kong Polytechnic University in 2023. Her research interests primarily focus on urban geography and historical GIS. She specializes in utilizing Geographic Information Systems and geospatial big data to deeply study the interaction mechanisms between human activities and urban spaces. Additionally, she integrates historical data with geospatial information to assist group members in analyzing and understanding the spatial distribution and dynamic evolution of historical events, population migrations, economic activities, and environmental changes. <br><br>
         In her master’s research, Lingyu revolves around leveraging interdisciplinary approaches, including epidemiology, spatial analysis, and data science, with a focus on using spatial modeling techniques and data-driven approaches to problem-solving. Her aim is to develop cost-effective pandemic control measures and to formulate targeted epidemic prevention measures tailored to local conditions in underdeveloped countries.
     </p>
 </div>
