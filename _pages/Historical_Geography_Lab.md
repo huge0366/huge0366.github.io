@@ -26,7 +26,7 @@ Phd Students
     <img src="/images/Mingchun_Hu.jpg" alt="Mingchun_Hu" style="height:120px;">
     <p>
     <b>Mingchun Hu</b><br>
-    Email: mingchun.hu@connect.polyu.hk
+    Email: mingchun.hu@connect.polyu.hk<br><br>
     Mingchun Hu completed her Bachelor’s degree in Geography with Economics at the London School of Economics and Political Science in 2022. She then obtained her MPhil in Planning, Growth, and Regeneration from the University of Cambridge in 2024.<br><br>
     Her research interests span human geography, economic geography, and historical geography. Her PhD journey will focus on using interdisciplinary methods to integrate concepts from these disciplines, aiming to explore the complex interactions between socio-economic development and climate change across different spatial and temporal scales.
     </p>
