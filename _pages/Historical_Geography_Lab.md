@@ -42,7 +42,6 @@ Phd Students
      </p>
 </div>
 
-
 Research Assistants
 =====
 <div style="margin-bottom:50px">
