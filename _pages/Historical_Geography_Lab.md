@@ -32,6 +32,17 @@ Phd Students
     </p>
 </div>
 
+<div style="margin-bottom:50px">
+    <img src="/images/yuran_su.jpg" alt="yuran_su" style="height:120px;">
+    <p>
+    <b>Yuran Su</b><br>
+    Email: 24095382r@connect.polyu.hk<br><br>
+    Yuran Su obtained her Bachelor's degree in Environmental Engineering from Tianjin University in 2022, followed by a Master's degree in Environmental Engineering and Management from the Hong Kong University of Science and Technology in 2023. Her research primarily focused on comparing ESG practices between domestic and international companies.<br><br>
+    For her PhD, she will apply methods such as machine learning and mathematical statistics to investigate Climate Change, Historical Geography, Historical Society, and Sustainable Development. Her aim is to analyze the complex relationships between social resilience, vulnerability, and climate change across various spatial and temporal scales.
+     </p>
+</div>
+
+
 Research Assistant
 =====
 <div style="margin-bottom:50px">
