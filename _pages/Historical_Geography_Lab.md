@@ -65,7 +65,7 @@ Research Assistants
 </div>
 
 <div style="margin-bottom:50px">
-    <img src="/images/fangyi_cai.jpg" alt="fangyi_cai" style="height:120px;">
+    <img src="/images/fangyi_cai.png" alt="fangyi_cai" style="height:120px;">
     <p>
         <b>Fangyi Cai</b><br>
         Email: fang1cai@polyu.edu.hk<br><br>
