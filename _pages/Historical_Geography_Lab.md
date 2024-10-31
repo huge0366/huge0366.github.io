@@ -70,7 +70,7 @@ Project Administrative Assistant
     <img src="/images/jiaxi_jiang.jpg" alt="jiaxi_jiang" style="height:120px;">
     <p>
         <b>Jiaxi Jiang</b><br>
-         Email: AndyJiang@life.hkbu.edu.hk
+         Email: AndyJiang@life.hkbu.edu.hk<br><br>
          Jiaxi Jiang received his Bachelor's degree in Global and Environmental Studies from the Education University of Hong Kong in 2024. He is currently pursuing a postgraduate Master of Science in Green Technology (Energy) at Hong Kong Baptist University.<br><br>
          His research interests focus on climate change, ESG, sustainability, green technology and carbon market related areas. In his future studies, he will focus on integrating these disciplines using an interdisciplinary approach, especially trying to combine green energy technologies with carbon market development.
              </p>
