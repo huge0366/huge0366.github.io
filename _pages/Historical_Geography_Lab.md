@@ -65,6 +65,15 @@ Research Assistants
 </div>
 
 <div style="margin-bottom:50px">
+    <img src="/images/fangyi_cai.jpg" alt="fangyi_cai" style="height:120px;">
+    <p>
+        <b>Fangyi Cai</b><br>
+        Email: fang1cai@polyu.edu.hk<br><br>
+        Fangyi Cai received her master’s degree in Geo-Information Science at The Chinese University of Hong Kong in 2016. Her research interests primarily focus on socio-cultural geography and historical GIS. She constructs historical geospatial dataset to analyze the interactions between migration events and climate change at multiple scales. In her master’s research, Fangyi detected great-grained urban heat islands effects by extracting the temperature thresholds of local climate zones (LCZs) based on remote sensing images. 
+    </p>
+</div>
+
+<div style="margin-bottom:50px">
     <img src="/images/Lingyu_FAN_Photo.jpg" alt="Lingyu_FAN_Photo" style="height:120px;">
     <p>
         <b>Lingyu Fan</b><br>
