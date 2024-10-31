@@ -42,6 +42,16 @@ Phd Students
      </p>
 </div>
 
+<div style="margin-bottom:50px">
+    <img src="/images/zihan_zhang.jpg" alt="zihan_zhang" style="height:120px;">
+    <p>
+    <b>Zihan Zhang</b><br>
+    Email: s1147984@s.eduhk.hk<br><br>
+    Zihan Zhang obtained his Bachelor’s degree in Environmental Science from Wuhan University in 2015 and subsequently completed a Master’s degree in Environmental Engineering and Management at the Hong Kong Polytechnic University in 2020. In 2023, he commenced his PhD studies in Environmental Economics at the Education University of Hong Kong. <br><br>
+    His research interests lie primarily in the areas of green finance, organizational resilience, and organizational strategy, with a focus on advancing sustainable development through interdisciplinary approaches. During his doctoral studies, he will concentrate on exploring how organizations can enhance resilience within China’s carbon emission trading market amid the "dual carbon" targets, employing a combination of qualitative and quantitative research methods. Through this research, he aims to provide strategic insights for carbon market participants and support policymakers in building a more resilient low-carbon economy.
+     </p>
+</div>
+
 Research Assistants
 =====
 <div style="margin-bottom:50px">
