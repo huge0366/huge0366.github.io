@@ -85,6 +85,17 @@ Research Assistants
 
 Project Administrative Assistant
 =====
+
+<div style="margin-bottom:50px">
+    <img src="/images/Cheung_Ching_Lam.jpg" alt="Cheung_Ching_Lam" style="height:120px;">
+    <p>
+        <b>Cheung Ching Lam</b><br>
+        Email: s11411262@s.eduhk.hk<br><br>
+        Cheung Ching Lam is an undergraduate student in the Bachelor of Education (Honours) in Geography programme at the Education University of Hong Kong. With a keen interest in geographical concepts and theories, she is developing an understanding of the interactions between human and physical environments on various scales. Additionally, she is gaining experience in geographical fieldwork and research. She is learning data analysis, Geographic Information Systems (GIS), remote sensing, and spatial analysis, which are important tools for exploring geographical issues.<br><br>
+        Aspiring to become an educator, Cheung Ching Lam is working on building pedagogical skills to create engaging learning experiences in secondary school Geography. She is learning about curriculum development and implementation in a dynamic educational environment. She hopes to inspire future generations to engage with geographical and environmental issues, fostering a deeper understanding of the relationship between land, nature, and people.
+         </p>
+</div>
+
 <div style="margin-bottom:50px">
     <img src="/images/jiaxi_jiang.jpg" alt="jiaxi_jiang" style="height:120px;">
     <p>
