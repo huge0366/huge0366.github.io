@@ -62,7 +62,7 @@ Phd Students
      </p>
 </div>
 
-Research Assistants
+Research Assistant
 =====
 <div style="margin-bottom:50px">
     <img src="/images/Lingyu_FAN_Photo.jpg" alt="Lingyu_FAN_Photo" style="height:120px;">
