@@ -18,7 +18,7 @@ Book Chapters
 
 Journal Articles
 1. David D Zhang, **Qing Pei**, Shengda Zhang, Leibin Wang, Mengyuan Qiu. Cultural innovations were boosted under the pressure of epidemic outbreaks in European History. Humanities & Social Sciences Communications. 2025, 12(1): 1-8.
-2. **裴卿**. 欧洲的气候与社会：过去一千年书评. 中国历史地理论丛.2025, 40(3): 132-135.
+2. **裴卿**. 歐洲的氣候與社會：過去一千年書評. 中國歷史地理論叢.2025, 40(3): 132-135.
 3. Sam White, Dominik Collet, Agustí Alcoberro, Mariano Barriendos, Rudolf Brázdil, Pau Castell, Siyu Chen, Cedric de Coning, Dagomar Degroot, Lukáš Dolák, Stefan Döring, Santiago Gorostiza, Katrin Kleemann, Florian Krampe, Kuan-Hui Lin, Nicolas Maughan, Natália Melo, Barry Molloy, Astrid EJ Ogilvie, Piling Pai,  **Qing Pei**, Christian Pfister, Silviya Serafimova, Diyang Zhang. Climate, peace, and conflict—past and present: Bridging insights from historical sciences and contemporary research. Ambio. 2025, 54(5): 774-792.
 4. **Qing Pei**, Mengyuan Qiu, Guodong Li, Kendra M Wu, Lee Mordechai, Wenqing Liu, Haolin Zhang. Cost of resilience to climate change: migration, conflicts, and epidemics in imperial China. Environmental Research Letters. 2024, 19(11): 114025
 5. Mengyuan Qiu, **Qing Pei**, Alex Lo, Jie Fei. Lost in Luxury: Climate Change and Silk Consumption in Mid-Qing China (1735–1840 CE). The Professional Geographer. 2024: 1-14.
