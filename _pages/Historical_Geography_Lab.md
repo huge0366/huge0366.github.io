@@ -52,8 +52,6 @@ Phd Students
      </p>
 </div>
 
-Research Assistants
-=====
 <div style="margin-bottom:50px">
     <img src="/images/xiaoran_bu.jpg" alt="xiaoran_bu" style="height:120px;">
     <p>
@@ -64,15 +62,8 @@ Research Assistants
      </p>
 </div>
 
-<div style="margin-bottom:50px">
-    <img src="/images/fangyi_cai.png" alt="fangyi_cai" style="height:120px;">
-    <p>
-        <b>Fangyi Cai</b><br>
-        Email: fang1cai@polyu.edu.hk<br><br>
-        Fangyi Cai received her master’s degree in Geo-Information Science at The Chinese University of Hong Kong in 2016. Her research interests primarily focus on socio-cultural geography and historical GIS. She constructs historical geospatial dataset to analyze the interactions between migration events and climate change at multiple scales. In her master’s research, Fangyi detected great-grained urban heat islands effects by extracting the temperature thresholds of local climate zones (LCZs) based on remote sensing images. 
-    </p>
-</div>
-
+Research Assistants
+=====
 <div style="margin-bottom:50px">
     <img src="/images/Lingyu_FAN_Photo.jpg" alt="Lingyu_FAN_Photo" style="height:120px;">
     <p>
@@ -127,6 +118,17 @@ Lab Research Fellow
         ZOU’s research interests span China studies, historical climate change and its educational practice, comparative literature, and native American studies. She has contributed on publishing projects of notable prize winners including The Sympathizer (100th Pulitzer Prize winner) & The Refugees by Viet Thanh Nguyen, Collected Poems: 1931-2001 by Czeslaw Milosz (Nobel Laureate), No Room for Small Dreams: The Making of Modern Israel by Shimon Peres (former Israeli President), as well as works by Paul A. Cohen, Ezra F. Vogel, and Henry Kissinger. She is the Chinese translator of works by Louise Erdrich, Edward St. Aubyn, Daisy Johnson, and Naomi Ishiguro.
        </p>
 </div>  
+
+Alumni
+=====
+<div style="margin-bottom:50px">
+    <img src="/images/fangyi_cai.png" alt="fangyi_cai" style="height:120px;">
+    <p>
+        <b>Fangyi Cai</b><br>
+        Email: fang1cai@polyu.edu.hk<br><br>
+        Fangyi Cai received her master’s degree in Geo-Information Science at The Chinese University of Hong Kong in 2016. Her research interests primarily focus on socio-cultural geography and historical GIS. She constructs historical geospatial dataset to analyze the interactions between migration events and climate change at multiple scales. In her master’s research, Fangyi detected great-grained urban heat islands effects by extracting the temperature thresholds of local climate zones (LCZs) based on remote sensing images. 
+    </p>
+</div>
     
 Openings
 =====
