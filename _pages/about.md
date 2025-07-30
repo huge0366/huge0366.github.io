@@ -45,9 +45,11 @@ Dr Qing Pei joined the Department of Land Surveying and Geo-Informatics, the Hon
 
 ## Editorship of Academic Journal
 
-1.	Advisory Panel Member 2023, Environmental Research Letters. 
-2.	Special issue editor, Climate of the Past. Issue name "International methods and comparisons in climate reconstruction and impacts from archives of societies"
-3.	Special issue editor, Past Global Changes Magazine. Issue name "Climate reconstruction and impacts from the archives of societies", Volume 28(2), Page 33-68, 2020
+1.  Editorial Board Member, Humanities and Social Sciences Communications, since 2025
+2.  Editorial Board Member, Journal of Historical Geography, since 2025
+3.	Advisory Panel Member, Environmental Research Letters, since 2023
+4.	Special issue editor, Climate of the Past. Issue name "International methods and comparisons in climate reconstruction and impacts from archives of societies"
+5.	Special issue editor, Past Global Changes Magazine. Issue name "Climate reconstruction and impacts from the archives of societies", Volume 28(2), Page 33-68, 2020
 
 ## Languages
 
