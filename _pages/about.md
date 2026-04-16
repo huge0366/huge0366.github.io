@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-# Welcome to Lab of Geography and Technological Humanities
+# Welcome to Lab of Geography and Smart Humanities
 
 Dr Qing Pei joined the Department of Land Surveying and Geo-Informatics, the Hong Kong Polytechnic University as Associate Professor in 2023. He is jointly employed by the Department of Chinese Culture. Before joining PolyU, he used to work as Associate Professor and Assistant Professor at the Department of Social Sciences of the Education University of Hong Kong, Fellow in the University of Cambridge, UK, the Swiss National Science Foundation Fellow at the University of Zurich, Switzerland, and Post-doctoral Fellow in the University of Hong Kong. His research interests traverse both physical and social sciences, which mainly encompass history and geography, climate change and human history, and social-ecological resilience. 
 
@@ -39,17 +39,19 @@ Dr Qing Pei joined the Department of Land Surveying and Geo-Informatics, the Hon
 
 1. Historical Geography
 1. History of Climate and Society
-1. Social-Ecological Resilience
-1. Digital Humanities
 1. Historical GIS
+1. Spatial Humanities
+1. Digital Humanities
 
 ## Editorship of Academic Journal
 
-1.  Editorial Board Member, Humanities and Social Sciences Communications, since 2025
-2.  Editorial Board Member, Journal of Historical Geography, since 2025
-3.	Advisory Panel Member, Environmental Research Letters, since 2023
-4.	Special issue editor, Climate of the Past. Issue name "International methods and comparisons in climate reconstruction and impacts from archives of societies"
-5.	Special issue editor, Past Global Changes Magazine. Issue name "Climate reconstruction and impacts from the archives of societies", Volume 28(2), Page 33-68, 2020
+1.  Associate Editor, Human Ecology, since 2026
+2.  Editorial Board Member, Humanities and Social Sciences Communications, since 2025
+3.  Editorial Board Member, Journal of Historical Geography, since 2025
+4.	Editorial Board Member, Big Data and Earth System, since 2025
+5.	Advisory Panel Member, Environmental Research Letters, since 2023
+6.	Special issue editor, Climate of the Past. Issue name "International methods and comparisons in climate reconstruction and impacts from archives of societies"
+7.	Special issue editor, Past Global Changes Magazine. Issue name "Climate reconstruction and impacts from the archives of societies", Volume 28(2), Page 33-68, 2020
 
 ## Languages
 
