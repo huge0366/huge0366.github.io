@@ -25,7 +25,8 @@ Dr Qing Pei joined the Department of Land Surveying and Geo-Informatics, the Hon
 ## Progressional Employment
 
 1. **Associate Professor**, Department of Land Surveying and Geo-Informatics and Department of Chinese Culture (joint appointment), The Hong Kong Polytechnic University, beginning September 2023
-1. **Associate Head (Research)**, Department of Social Sciences, The Education University of Hong Kong, June, 2022–June, 2023
+1. **Director**, Joint Historical GIS Lab, PolyU-South China Normal Univeristy, since 2025
+2. **Associate Head (Research)**, Department of Social Sciences, The Education University of Hong Kong, June, 2022–June, 2023
 1. **Assistant Professor**, Associate Professor, Department of Social Sciences, The Education University of Hong Kong, May, 2016–September, 2023
 1. **Carson Fellow**, Rachel Carson Center, Ludwig Maximilian University of Munich, 2018
 1. **Visiting Professor**, School of Geographical Sciences, Guangzhou University, 2018–present 
