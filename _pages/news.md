@@ -11,6 +11,7 @@ author_profile: true
 
 News
 ======
+* April 2026: Dr. Pei Qing was appointed to the Associate Editor of *Human Ecology*.
 * July 2025: Dr. Pei Qing was appointed to the Editorial Board Member of *Humanities and Social Sciences Communications*.
   
 * 01 July 2025: Dr. Pei Qing, in collaboration with the Zhang Dian professor’s team from Guangzhou University, published a new paper titled "Cultural innovations were boosted under the pressure of epidemic outbreaks in European History" in *Nature* sub-journal *Humanities and Social Sciences Communications*. <br><br>
