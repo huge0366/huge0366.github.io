@@ -10,7 +10,7 @@ redirect_from:
 
 # Welcome to Lab of Geography and Smart Humanities
 
-Dr Qing Pei joined the Department of Land Surveying and Geo-Informatics, the Hong Kong Polytechnic University as Associate Professor in 2023. He is jointly employed by the Department of Chinese Culture. Before joining PolyU, he used to work as Associate Professor and Assistant Professor at the Department of Social Sciences of the Education University of Hong Kong, Fellow in the University of Cambridge, UK, the Swiss National Science Foundation Fellow at the University of Zurich, Switzerland, and Post-doctoral Fellow in the University of Hong Kong. His research interests traverse physical and social sciences with application of technology, which mainly encompass history and geography, climate change and human history, historical GIS, spatial digital humanities, and AI humanities. 
+Dr Qing Pei joined the Department of Land Surveying and Geo-Informatics, the Hong Kong Polytechnic University as Associate Professor in 2023. He is jointly employed by the Department of Chinese Culture. Before joining PolyU, he used to work as Associate Professor and Assistant Professor at the Department of Social Sciences of the Education University of Hong Kong, Fellow in the University of Cambridge, UK, the Swiss National Science Foundation Fellow at the University of Zurich, Switzerland, and Post-doctoral Fellow in the University of Hong Kong. His research interests traverse physical and social sciences with application of technology, which mainly encompass **history and geography**, **climate change and human history**, **historical GIS**, **spatial digital humanities**, and **AI humanities**. 
 
 
 ## Education
