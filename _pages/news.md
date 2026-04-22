@@ -11,6 +11,7 @@ author_profile: true
 
 News
 ======
+* April 2026: Dr. Pei Qing was awarded Jing Brand Scholarships in Chinese Science and Civilisation, Needham Research Institute, University of Cambridge
 * April 2026: Dr. Pei Qing was appointed to the Associate Editor of *Human Ecology*.
 * July 2025: Dr. Pei Qing was appointed to the Editorial Board Member of *Humanities and Social Sciences Communications*.
   
