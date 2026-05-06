@@ -11,10 +11,11 @@ Monograph
 1.	**Qing Pei**. Climate Change Economics between Europe and China: Long-Term Economic Development of Divergence and Convergence. Switzerland, Springer Nature. 2021. ISBN: 978-3-030-78745-5
 
 Book Chapters
-1.  **Qing Pei**, Yingqi Long, Xiaolin Lin, Climate Change in Historical Perspective: Violence, Conflict, and Migration, Handbook of Labor, Human Resources and Population Economics, 2023, Page 1-25
-2.	David D Zhang, **Qing Pei**, Christiane Fröhlich, Tobias Ide. Does climate change drive violence, conflict and human migration? Mike Hulme, Contemporary Climate Change Debates: A Student Primer. London and New York: Routledge, 2019, Page 51-64
-3.	**裴卿**，氣候變化和人類社會經濟發展因果關係的研究進展，夏明方、郝平編，《災害與歷史》，北京，中國，商務印書館，2018，250-259页
-4.	David D. Zhang, **Qing Pei**. Gone with winds: A quantitative analysis of battlefield locations and climate shifts in Imperial China. Peter Dennis, Geo-strategy and War: Enduring Lessons for Australian Army. Canberra, Australia: Big Sky Publishing, 2015, Page 193-211
+1. Samuel White, **Qing Pei**, and Lukáš Dolák. Methodological Innovations in the History of Climate and Society Studies. Environmental History. Oxford: Oxford University Press, 2025, Page 17
+2.    **Qing Pei**, Yingqi Long, Xiaolin Lin, Climate Change in Historical Perspective: Violence, Conflict, and Migration, Handbook of Labor, Human Resources and Population Economics, 2023, Page 1-25
+3.	David D Zhang, **Qing Pei**, Christiane Fröhlich, Tobias Ide. Does climate change drive violence, conflict and human migration? Mike Hulme, Contemporary Climate Change Debates: A Student Primer. London and New York: Routledge, 2019, Page 51-64
+4.	**裴卿**，氣候變化和人類社會經濟發展因果關係的研究進展，夏明方、郝平編，《災害與歷史》，北京，中國，商務印書館，2018，250-259页
+5.	David D. Zhang, **Qing Pei**. Gone with winds: A quantitative analysis of battlefield locations and climate shifts in Imperial China. Peter Dennis, Geo-strategy and War: Enduring Lessons for Australian Army. Canberra, Australia: Big Sky Publishing, 2015, Page 193-211
 
 Journal Articles
 1. Yue Dai, Baofeng Di, Yajie Zeng, **Qing Pei**, Junhui Li, Gang Chen, Andreas Nienkötter, Yu Qiao. Exploring disaster resilience strategies for temple spaces: evidence from Longmen Mountain area in Sichuan. npj Heritage Science. 2025, 13(1): 448.
