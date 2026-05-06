@@ -64,15 +64,7 @@ Phd Students
 
 Research Assistant
 =====
-<div style="margin-bottom:50px">
-    <img src="/images/Lingyu_FAN_Photo.jpg" alt="Lingyu_FAN_Photo" style="height:120px;">
-    <p>
-        <b>Lingyu Fan</b><br>
-        Email: ivy-lingyu.fan@polyu.edu.hk<br><br>
-        Lingyu Fan received her master’s degree in Geomatics at the Hong Kong Polytechnic University in 2023. Her research interests primarily focus on urban geography and historical GIS. She specializes in utilizing Geographic Information Systems and geospatial big data to deeply study the interaction mechanisms between human activities and urban spaces. Additionally, she integrates historical data with geospatial information to assist group members in analyzing and understanding the spatial distribution and dynamic evolution of historical events, population migrations, economic activities, and environmental changes. <br><br>
-        In her master’s research, Lingyu revolves around leveraging interdisciplinary approaches, including epidemiology, spatial analysis, and data science, with a focus on using spatial modeling techniques and data-driven approaches to problem-solving. Her aim is to develop cost-effective pandemic control measures and to formulate targeted epidemic prevention measures tailored to local conditions in underdeveloped countries.
-    </p>
-</div>
+
 
 Project Administrative Assistant
 =====
@@ -127,6 +119,17 @@ Alumni
         <b>Fangyi Cai</b><br>
         Email: fang1cai@polyu.edu.hk<br><br>
         Fangyi Cai received her master’s degree in Geo-Information Science at The Chinese University of Hong Kong in 2016. Her research interests primarily focus on socio-cultural geography and historical GIS. She constructs historical geospatial dataset to analyze the interactions between migration events and climate change at multiple scales. In her master’s research, Fangyi detected great-grained urban heat islands effects by extracting the temperature thresholds of local climate zones (LCZs) based on remote sensing images. 
+    </p>
+</div>
+
+
+<div style="margin-bottom:50px">
+    <img src="/images/Lingyu_FAN_Photo.jpg" alt="Lingyu_FAN_Photo" style="height:120px;">
+    <p>
+        <b>Lingyu Fan</b><br>
+        Email: ivy-lingyu.fan@polyu.edu.hk<br><br>
+        Lingyu Fan received her master’s degree in Geomatics at the Hong Kong Polytechnic University in 2023. Her research interests primarily focus on urban geography and historical GIS. She specializes in utilizing Geographic Information Systems and geospatial big data to deeply study the interaction mechanisms between human activities and urban spaces. Additionally, she integrates historical data with geospatial information to assist group members in analyzing and understanding the spatial distribution and dynamic evolution of historical events, population migrations, economic activities, and environmental changes. <br><br>
+        In her master’s research, Lingyu revolves around leveraging interdisciplinary approaches, including epidemiology, spatial analysis, and data science, with a focus on using spatial modeling techniques and data-driven approaches to problem-solving. Her aim is to develop cost-effective pandemic control measures and to formulate targeted epidemic prevention measures tailored to local conditions in underdeveloped countries.
     </p>
 </div>
     
