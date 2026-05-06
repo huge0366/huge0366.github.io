@@ -9,7 +9,7 @@ author_profile: true
 {% include base_path %}
 
 
-1.	The Jing Brand Scholarships in Chinese Science and Civilisation, Needham Research Institute, University of Cambridge,2026-2027
+1.	The Jing Brand Scholarships in Chinese Science and Civilisation, Needham Research Institute, University of Cambridge, 2026-2027
 2.	Presidential Young Scholars Scheme, The Hong Kong Polytechnic University, 2023-2026
 3.	Humanities and Social Sciences Prestigious Fellowship Scheme, Research Grants Council, Hong Kong, 2022–2023
 4.	Higher Education Outstanding Scientific Research Output Awards, Second-class Award in Natural Sciences, the Ministry of Education, China, 2019–2020
